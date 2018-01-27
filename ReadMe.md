@@ -1,5 +1,6 @@
 # Pip-Extension
 
+目前只支持python2, 没有测试过python3.
 
 
 ## 简介
